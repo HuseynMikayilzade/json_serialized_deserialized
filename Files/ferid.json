@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Ferid",
+    "Surname": "Haqverdiyev",
+    "Age": 19,
+    "Id": 1,
+    "Salary": 1000000.0
+  },
+  {
+    "Name": "Ulvi",
+    "Surname": "Asadzade",
+    "Age": 30,
+    "Id": 2,
+    "Salary": 2000000.0
+  },
+  {
+    "Name": "Aksin",
+    "Surname": "Eliyev",
+    "Age": 20,
+    "Id": 3,
+    "Salary": 3000000.0
+  },
+  {
+    "Name": "Azer",
+    "Surname": "Qasmzade",
+    "Age": 19,
+    "Id": 4,
+    "Salary": 4000000.0
+  },
+  {
+    "Name": "Nicat",
+    "Surname": "Mecidov",
+    "Age": 19,
+    "Id": 5,
+    "Salary": 5000000.0
+  },
+  {
+    "Name": "Huseyn",
+    "Surname": "Mikaylzade",
+    "Age": 19,
+    "Id": 6,
+    "Salary": 7000000.0
+  },
+  {
+    "Name": "Ali",
+    "Surname": "kerimov",
+    "Age": 19,
+    "Id": 7,
+    "Salary": 6000000.0
+  }
+]
